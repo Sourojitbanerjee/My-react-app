@@ -1,7 +1,10 @@
+import Header from './Header.jsx'
+
 function App() {
   return (
-    <h1>Hello I'm Sourojit</h1>
-  )
+   <Header/>
+    
+  );
 }
 
 export default App
